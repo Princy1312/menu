@@ -1,0 +1,127 @@
+body{
+    
+    height: 100%;
+    background: black;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 12rem;
+    border-radius: 120px;
+    align-items: center;
+   display: block;
+    margin:0 auto ;
+
+    
+}
+h1{
+    font-size: 5rem;
+    color:  #ffa500;
+    text-align: center;
+margin-top: 5rem;
+
+}
+p{
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: -4rem;
+}
+section{
+    background-color: #ffa500;
+     margin-top: 15rem;
+
+}
+
+.burger{
+    width:250px ;
+    height: 249px;
+    border: solid 5px white;
+    border-radius: 50%;
+    
+
+}
+.pizza{
+    width: 300px;
+    height: 299px;
+    border: solid 5px white;
+    border-radius: 50%;
+    
+   
+}
+.pates{
+    width:250px;
+    height: 249px;
+     border: solid 5px white;
+    border-radius: 50%;
+   
+}
+.image{
+   text-align: center;
+   align-items: center;
+
+}
+.section1{
+    background: black;
+}
+
+
+.titre ul li{
+    border-radius :10px ;
+    border:solid #ffa500 ;
+    width: auto;
+    display: inline;
+    text-align: center;
+    list-style: none;
+    margin: 12.1rem;
+    font-size: 2rem;
+padding: 1rem;
+background: #ffa500 ;
+
+
+}
+.sous-menu {
+    display: flex;
+    color: white;
+justify-content: space-around;
+    margin-top: 4rem;
+    font-size: 1.5rem;
+    list-style: none;
+    line-height: 1.4;
+    
+}
+.sous-menu ul li{
+    list-style: none;
+}
+.prix{
+    display: flex;
+    color: #ffa500;
+    background: black;
+   margin: 23rem;
+    margin-top: -12rem;
+    gap: 32rem;
+    list-style: none;
+    line-height: 1.8;
+    font-size: 1.2rem;
+    
+}
+h4{
+    color: white;
+}
+a{
+    color: #ffa500;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+.contact li{
+    color: white;
+    margin-left: 80%;
+    
+
+}
+i{
+    font-size: 2rem;
+}
+footer{
+    margin-top: -10rem;
+}
